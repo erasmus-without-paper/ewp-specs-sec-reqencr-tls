@@ -5,6 +5,15 @@ This document describes all the changes made to the *TLS and Request
 Confidentiality* document, starting from its first released version.
 
 
+1.1.0
+-----
+
+* Added the `security-entries.xsd` file. It contains the definition of an XML
+  element which can be used to reference the method of encryption described
+  in this document. See [this
+  issue](https://github.com/erasmus-without-paper/ewp-specs-sec-intro/issues/1).
+
+
 1.0.0
 -----
 
